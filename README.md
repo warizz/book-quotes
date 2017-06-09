@@ -1,2 +1,2 @@
 # Book quotes
-Storage of all interesting quotes from books/articles I have read.
+Storage of interesting quotes from books/articles I have read.
