@@ -23,4 +23,8 @@ By updating you have to know ```connection/edges/node```.
 
 [Understanding pagination: REST, GraphQL, and Relay](https://dev-blog.apollodata.com/understanding-pagination-rest-graphql-and-relay-b10f835549e7)
 
+[Explaining GraphQL Connections](https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976)
+
+[Pagination](http://graphql.org/learn/pagination/)
+
 [Relay Cursor Connections Specification](https://facebook.github.io/relay/graphql/connections.htm)
