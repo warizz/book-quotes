@@ -4,6 +4,10 @@ But when it comes to doing it right, it is another story.
 
 This is my journey to use GraphQL with Relay.
 
+## my playground for this learning
+[hitchhike-client](https://github.com/warizz/hitchhike-client)  
+[hitchhike-api](https://github.com/warizz/hitchhike-api)
+
 ## on setting up your mind for Relay
 [Relay Modern - Lee Byron aka @leeb at @ReactEurope 2017](https://www.youtube.com/watch?v=OdsMz7h_Li0&t=881s)
 
