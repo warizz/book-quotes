@@ -2,7 +2,7 @@
 Implement GraphQL to your server just to make it work is easy.
 But when it comes to doing it right, it is another story.
 
-This is my journey to using GraphQL with Relay.
+This is my journey to use GraphQL with Relay.
 
 ## on setting up your mind for Relay
 [Relay Modern - Lee Byron aka @leeb at @ReactEurope 2017](https://www.youtube.com/watch?v=OdsMz7h_Li0&t=881s)
