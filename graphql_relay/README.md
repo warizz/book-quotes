@@ -15,7 +15,7 @@ If you're ```create-react-app``` guy, you may struggle when ```relay-modern``` [
 This may be another struggle you'll meet.
 Relay has caching, you fetch data and it will be stored in cache.
 When you mutate an item in list (like insert/update/delete) you have to update data in the cache manually.
-When it comes to updating you have to know ```connection/edges/node```.
+By updating you have to know ```connection/edges/node```.
 
 [Understanding pagination: REST, GraphQL, and Relay](https://dev-blog.apollodata.com/understanding-pagination-rest-graphql-and-relay-b10f835549e7)
 
