@@ -3,8 +3,8 @@
 [link](https://youtu.be/RleN-6uMF04)
 
 >- Teaching is the best way of learning
-- Teaching strengthens the team
-- Everyone should teach
+>- Teaching strengthens the team
+>- Everyone should teach
 
 ...
 
